@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[[PDF]](http://lantaoyu.github.io/files/lantaoyu_cv.pdf)
+[[PDF]](../files/AyushResume_MIT.pdf)
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
