@@ -30,7 +30,7 @@ Collaborating with the Camera Culture group on a tool to conduct computational p
 <br>
 Product replacement on models images to aid virtual try-on in 2D environment.
 <br>
-[[Project Page]](http://www.ayushchopra.me)
+[[Project Page]](../project/scenemanipulation)
 
 <b>Pose Aware Fine Grained Visual Classification</b><br>
 <i>CVML, IIIT-Delhi</i>
@@ -54,7 +54,7 @@ Product replacement on models images to aid virtual try-on in 2D environment.
 <br>
 Metric for primary-sequence independent protein structural topology comparison.
 <br>
-[[Github]](https://github.com/ayushchopra96/topologize.git)
+[[Project Page]](../projects/topologize)
 
 ## Convex Optimization
 
