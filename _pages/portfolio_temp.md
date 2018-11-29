@@ -11,11 +11,6 @@ author_profile: true
 <br>
 Collaborating with the Camera Culture group on a tool to conduct computational photography experiments for non-line-of-sight imaging.
 
-<b>Computer Vision for Intelligent Video-Conferencing Platform</b> (To Add Project Page)<br>
-<i>Cyclops</i>
-<br>
-[[Project Page]](../projects/cyclops)
-
 <b>Teaching: Introduction to Machine Intelligence</b><br>
 <i>Coding Blocks</i><br>
 [[Project Page]](../projects/codingblocks)
@@ -41,13 +36,7 @@ Product replacement on models images to aid virtual try-on in 2D environment.
 <i>Independent Project</i> <br>
 [[Project Page]](../projects/paper-implementations)
 
-## HealthCare (To Complete Editing)
-
-<b>smartCTG</b>
-
-<b>Non-Invasive Jaundice Detection</b>
-
-## Bioinformatics
+## Computational Biology
 
 <b>Topologize</b><br>
 <i>Independent Project</i>
@@ -62,6 +51,18 @@ Metric for primary-sequence independent protein structural topology comparison.
 <i>Indepedent Project</i>
 <br>
 [[Project Page]](../publications/HIDE)
+
+## Computational Health
+
+<b>smartCTG</b>
+<i>Independent Project</i>
+<br>
+[[Project Page]](../projects/smartCTG)
+
+<b>Non-Invasive Jaundice Detection</b>
+<i>Independent Project</i>
+<br>
+[[Project Page]](../projects/jaundice)
 
 ## Computational Chemistry
 
