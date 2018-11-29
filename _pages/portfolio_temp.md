@@ -23,9 +23,9 @@ Collaborating with the Camera Culture group on a tool to conduct computational p
 <b>Generative Models for Scene Manipulation</b> (To Add Project Page) <br>
 <i>Independent Project</i>
 <br>
-Product replacement on models images to aid virtual try-on in 2D environment.
+Product replacement on models images for virtual try-on in 2D environment.
 <br>
-[[Project Page]](../project/scenemanipulation)
+[[Project Page]](../projects/scenemanipulation)
 
 <b>Pose Aware Fine Grained Visual Classification</b><br>
 <i>CVML, IIIT-Delhi</i>

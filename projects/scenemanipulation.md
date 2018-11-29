@@ -1,6 +1,6 @@
 ---
 title: "Generative Models for Scene Manipulation"
-permalink: /projects/gsoc18
+permalink: /projects/scenemanipulation
 author_profile: true
 ---
 
