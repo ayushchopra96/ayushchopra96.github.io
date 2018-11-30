@@ -4,8 +4,11 @@ permalink: /projects/scenemanipulation
 author_profile: true
 ---
 
-## Sample
+## Abstract
 
+Generative Models are opening a lot of potentials
+
+## Sample
 
 <div id="music">
 <video width="320" height="240" controls>
@@ -13,3 +16,6 @@ author_profile: true
   Your browser does not support the video tag.
 </video>
 </div>
+
+
+## Source Code

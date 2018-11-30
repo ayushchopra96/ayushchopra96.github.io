@@ -9,18 +9,23 @@ author_profile: true
 <b>Web NLOS</b><br>
 <i>MIT Media Labs</i>
 <br>
-Collaborating with the Camera Culture group on a tool to conduct computational photography experiments for non-line-of-sight imaging.
+Collaborating with Tristan Swedish and Guy Satat at the Camera Culture group on a tool to conduct for non-line-of-sight imaging experiments.<br>
+<b>More details soon</b>
 
 <b>Teaching: Introduction to Machine Intelligence</b><br>
 <i>Coding Blocks</i><br>
 [[Project Page]](../projects/codingblocks)
+
+<b>Deep Learning Paper Implementations</b><br>
+<i>Independent Project</i> <br>
+[[Project Page]](../projects/paper-implementations)
 
 <b>Nutritional Fact Table Detection and Analysis</b><br>
 <i>GSoC: Open Food Facts</i>
 <br>
 [[Project Page]](../projects/gsoc18)
 
-<b>Generative Models for Scene Manipulation</b> (To Add Project Page) <br>
+<b>Generative Models for Scene Manipulation</b><br>
 <i>Independent Project</i>
 <br>
 Product replacement on models images for virtual try-on in 2D environment.
@@ -31,10 +36,6 @@ Product replacement on models images for virtual try-on in 2D environment.
 <i>CVML, IIIT-Delhi</i>
 <br>
 [[Project Page]](../publications/FGVC)
-
-<b>Deep Learning Paper Implementations</b><br>
-<i>Independent Project</i> <br>
-[[Project Page]](../projects/paper-implementations)
 
 ## Computational Biology
 
@@ -54,12 +55,12 @@ Metric for primary-sequence independent protein structural topology comparison.
 
 ## Computational Health
 
-<b>smartCTG</b>
+<b>smartCTG</b><br>
 <i>Independent Project</i>
 <br>
 [[Project Page]](../projects/smartCTG)
 
-<b>Non-Invasive Jaundice Detection</b>
+<b>Non-Invasive Jaundice Detection</b><br>
 <i>Independent Project</i>
 <br>
 [[Project Page]](../projects/jaundice)
