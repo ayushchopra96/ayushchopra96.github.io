@@ -1,6 +1,6 @@
 ---
 title: "smartCTG: "
-permalink: /projects/scenemanipulation
+permalink: /projects/smartCTG
 author_profile: true
 ---
 
