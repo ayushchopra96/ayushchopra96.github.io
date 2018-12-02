@@ -75,7 +75,7 @@ Metric for primary-sequence independent protein structural topology comparison.
 <b>Rasp-IOT</b><br>
 <i>Independent Project</i>
 <br>
-Wireless control of devices in a domestic setting.
+Enabling wireless mobile control of devices in a domestic setting.
 <br>
 [[Github]](https://github.com/ayushchopra96/PiController.git)
 
