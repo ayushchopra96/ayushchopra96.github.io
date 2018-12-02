@@ -9,7 +9,7 @@ author_profile: true
 <b>Web NLOS</b><br>
 <i>MIT Media Labs</i>
 <br>
-Collaborating with Tristan Swedish and Guy Satat at the Camera Culture group on a tool to conduct for non-line-of-sight imaging experiments.<br>
+Collaborating with graduate students at the Camera Culture group on data-driven non-line-of-sight imaging experiments.<br>
 <b>More details soon</b>
 
 <b>Teaching: Introduction to Machine Intelligence</b><br>
@@ -25,6 +25,11 @@ Collaborating with Tristan Swedish and Guy Satat at the Camera Culture group on 
 <br>
 [[Project Page]](../projects/gsoc18)
 
+<b>Pose Aware Fine Grained Visual Classification</b><br>
+<i>CVML, IIIT-Delhi</i>
+<br>
+[[Project Page]](../publications/FGVC)
+
 <b>Generative Models for Scene Manipulation</b><br>
 <i>Independent Project</i>
 <br>
@@ -32,10 +37,6 @@ Product replacement on models images for virtual try-on in 2D environment.
 <br>
 [[Project Page]](../projects/scenemanipulation)
 
-<b>Pose Aware Fine Grained Visual Classification</b><br>
-<i>CVML, IIIT-Delhi</i>
-<br>
-[[Project Page]](../publications/FGVC)
 
 ## Computational Biology
 
