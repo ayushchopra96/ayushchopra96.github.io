@@ -9,6 +9,7 @@ author_profile: true
 <b>Web NLOS</b><br>
 <i>MIT Media Labs</i>
 <br>
+[[Project Page]](../projects/webnlos)
 Collaborating with graduate students at the Camera Culture group on data-driven non-line-of-sight imaging experiments.<br>
 <b>More details soon</b>
 
@@ -20,6 +21,13 @@ Collaborating with graduate students at the Camera Culture group on data-driven 
 <i>Independent Project</i> <br>
 [[Project Page]](../projects/paper-implementations)
 
+<b>Generative Models for Scene Manipulation</b><br>
+<i>Independent Project</i>
+<br>
+Product replacement on models images for virtual try-on in 2D environment.
+<br>
+[[Project Page]](../projects/scenemanipulation)
+
 <b>Nutritional Data Extraction and Analysis in the Wild</b><br>
 <i>GSoC: Open Food Facts</i>
 <br>
@@ -29,13 +37,6 @@ Collaborating with graduate students at the Camera Culture group on data-driven 
 <i>CVML, IIIT-Delhi</i>
 <br>
 [[Project Page]](../publications/FGVC)
-
-<b>Generative Models for Scene Manipulation</b><br>
-<i>Independent Project</i>
-<br>
-Product replacement on models images for virtual try-on in 2D environment.
-<br>
-[[Project Page]](../projects/scenemanipulation)
 
 
 ## Computational Biology
