@@ -6,7 +6,7 @@ venue: "Advanced Materials World Congress"
 date: 2015-12-10
 <!-- citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>. -->'
 ---
-[[PDF]](https://arxiv.org/abs/1702.05308)
+[[PDF]](../files/NPL_Paper.pdf)
 
 ## Abstract
 Present work focusses on the antistatic and biocidal performance (i.e.removal of E.coli and Total coliform (TC) bacteria) of fabric modified with polyaniline microtubes. Polyaniline coated fabric has been developed by chemical oxidative polymerization of aniline in presence of naphthalene sulphonic acid as a dopant. Coating of polymer on fabric material was carried out during polymerization in different concentration. Conducting polymer coated fabrics were characterized by TGA analysis, FTIR spectroscopy and XRD analysis and conductivity measurement, which indicate that the inclusion of polyaniline microtubes into the fabric matrix. Scanning electron microscopy (SEM) revealed the surface morphology of the material. Evaluation of the membrane for antimicrobial activity (removal of Total coliform and E.coli) has been carried out by

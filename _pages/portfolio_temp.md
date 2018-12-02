@@ -22,8 +22,6 @@ author_profile: true
 <b>Generative Models for Scene Manipulation</b><br>
 <i>Independent Project</i>
 <br>
-Product replacement on models images for virtual try-on in 2D environment.
-<br>
 [[Project Page]](../projects/scenemanipulation)
 
 <b>Nutritional Data Extraction and Analysis in the Wild</b><br>
@@ -74,7 +72,7 @@ Metric for primary-sequence independent protein structural topology comparison.
 
 ## Fun-Projects
 
-<b>Rasp-Me</b><br>
+<b>Rasp-IOT</b><br>
 <i>Independent Project</i>
 <br>
 Wireless control of devices in a domestic setting.
