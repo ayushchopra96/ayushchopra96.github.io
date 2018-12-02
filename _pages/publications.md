@@ -17,3 +17,12 @@ Shubham Dokania\*, <b>Ayush Chopra\*</b> (equal contribution), Feroz Ahmad, Anil
 
 <b>[Biocidal and Antistatic Performance of fabric modified with Polyaniline Microtubes](../publications/chem)</b><br>
 <b>Ayush Chopra</b>, Hema Bhandari, S.K Dhawan. <i>Technical Report</i>
+
+
+## Patents
+
+<b>MULTI-TASKED NETWORKS FOR VISUAL ARTEFACT MODELLING IN VIDEO CONFERENCES</b><br>
+<i>Status: Pending</i>&nbsp;&nbsp;<span>Parent Organisation: Cyclops</span>&nbsp;&nbsp;<span>2018</span>
+
+<b>MULTI-MODAL GESTURE DRIVEN INTERACTIONS IN VIDEO CONFERENCES</b><br>
+<i>Status: Pending</i>&nbsp;&nbsp;<span>Parent Organisation: Cyclops</span>&nbsp;&nbsp;<span>2018</span>
