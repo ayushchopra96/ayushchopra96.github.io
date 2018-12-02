@@ -2,7 +2,7 @@
 title: "Biocidal and Antistatic Performance of fabric modified with Polyaniline Microtubes"
 collection: publications
 permalink: /publications/chem
-venue: "Advanced Materials World Congress"
+venue: "Conference on Environmental Economics and Social Sustainability"
 date: 2015-12-10
 <!-- citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>. -->'
 ---
