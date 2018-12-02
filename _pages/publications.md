@@ -21,10 +21,4 @@ Shubham Dokania\*, <b>Ayush Chopra\*</b> (equal contribution), Feroz Ahmad, Anil
 
 ## Patents
 
-<h3>Multi-tasked Networks for Visual Artefact Modelling in Video Conferences</h3>
-<span>Parent Organisation: Cyclops</span>
-<br><i>Status: Pending</i>&nbsp;&nbsp;
-
-<h3>Multi-modal Gesture Driven Interactions in Video Conferences</h3>
-<span>Parent Organisation: Cyclops</span>
-<br><i>Status: Pending</i>&nbsp;&nbsp;<span>
+<b>Multiple patents pending</b>
