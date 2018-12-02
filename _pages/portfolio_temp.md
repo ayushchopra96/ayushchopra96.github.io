@@ -10,8 +10,6 @@ author_profile: true
 <i>MIT Media Labs</i>
 <br>
 [[Project Page]](../projects/webnlos)
-Collaborating with graduate students at the Camera Culture group on data-driven non-line-of-sight imaging experiments.<br>
-<b>More details soon</b>
 
 <b>Teaching: Introduction to Machine Intelligence</b><br>
 <i>Coding Blocks</i><br>
