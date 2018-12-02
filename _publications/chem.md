@@ -3,7 +3,7 @@ title: "Biocidal and Antistatic Performance of fabric modified with Polyaniline 
 collection: publications
 permalink: /publications/chem
 venue: "Conference on Environmental Economics and Social Sustainability"
-date: 2015-12-10
+date: 2014-12-10
 <!-- citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>. -->'
 ---
 [[PDF]](../files/NPL_Paper.pdf)
