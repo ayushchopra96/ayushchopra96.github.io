@@ -20,7 +20,7 @@ Collaborating with Tristan Swedish and Guy Satat at the Camera Culture group on 
 <i>Independent Project</i> <br>
 [[Project Page]](../projects/paper-implementations)
 
-<b>Nutritional Fact Table Detection and Analysis</b><br>
+<b>Nutritional Data Extraction and Analysis in the Wild</b><br>
 <i>GSoC: Open Food Facts</i>
 <br>
 [[Project Page]](../projects/gsoc18)
@@ -60,11 +60,6 @@ Metric for primary-sequence independent protein structural topology comparison.
 <br>
 [[Project Page]](../projects/smartCTG)
 
-<b>Non-Invasive Jaundice Detection</b><br>
-<i>Independent Project</i>
-<br>
-[[Project Page]](../projects/jaundice)
-
 ## Computational Chemistry
 
 <b>Biocidal and Antistatic Performance of fabric modified with Polyaniline Microtubes</b><br>
@@ -81,6 +76,8 @@ Metric for primary-sequence independent protein structural topology comparison.
 
 <b>Rasp-Me</b><br>
 <i>Independent Project</i>
+<br>
+Wireless control of devices in a domestic setting.
 <br>
 [[Github]](https://github.com/ayushchopra96/PiController.git)
 

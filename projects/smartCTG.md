@@ -12,4 +12,3 @@ smartCTG, is a cheap and portable extension for existing machines, to aid real t
 
 smartCTG, uses a simple raspberry-pi with a camera and wifi module, and can be seamlessly interfaced with any existing CTG machine.
 
-## Source Code
