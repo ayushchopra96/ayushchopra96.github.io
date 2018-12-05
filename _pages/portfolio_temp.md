@@ -34,6 +34,16 @@ author_profile: true
 <br>
 [[Project Page]](../publications/FGVC)
 
+<b>Computer Vision for Interactive Video Conference Experiences</b><br>
+<i>Cyclops</i>
+<br>
+[[Project Page]](../publications/cyclops)
+
+<b>Computer Vision for Safer Experiences in Public Events</b><br>
+<i>ISM Connect</i>
+<br>
+[[Project Page]](../publications/ism)
+
 
 ## Computational Biology
 
