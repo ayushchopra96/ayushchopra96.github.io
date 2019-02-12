@@ -14,12 +14,13 @@ redirect_from:
 
 * I currently work for the Media and Data Science Research Group at <a href="https://wwww.adobe.com" target="_blank">Adobe Inc.</a>
 * I graduated with a BE in Computer Engineering from <a href="https://www.dtu.ac.in" target="_blank">Delhi Technological University</a> in May 2018 where I worked on a wide range of problem across Machine Learning, Computer Vision, Computational Biology, Health and Chemistry.
-* I am interested in deep representation learning, computer vision to help gain meaningful insights into challenging problems at the intersection of science and computing. Applications in Communication, Healthcare and Customer Experience intrigue me.
+* I am interested in using computer vision and deep learning to gain meaningful insights into challenging problems at the intersection of science and computing. Applications in Marketing Intelligence, Healthcare and Communication intrigue me.
 
 * During my undergraduate years, I was mentored by <a href="http://people.csail.mit.edu/samson/">Dr. Samson Timoner</a>, <a href="https://www.cse.iitd.ac.in/~chetan/">Dr. Chetan Arora</a> and <a href="https://www.linkedin.com/in/waikit-lau-89129/">Mr. Waikit Lau</a>
 * When not working, I love to travel and explore new places. I also love to regularly write on <a href="https://www.quora.com/profile/Ayush-Chopra" target="_blank">Quora.</a>
 
 # Recent News
+* January 2019: Paper on <b>Grid Search Networks for Fashion Retrieval</b> submitted to 26th ICIP 2019
 * November 2018: Talk on <b>Deep Product Search in the Wild</b> accepted at Adobe Tech Summit 2019, San Jose.
 * October 2018: Started collaborating with the <b>Camera Culture group</b> at MIT Media Labs.
 * October 2018 Speaking on <b>Computer Vision at Open Food Facts</b> at Google Summer of Code Mentor's Summit 2018 in Sunnyvale, California.
