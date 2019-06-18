@@ -13,8 +13,8 @@ redirect_from:
 </p> -->
 
 * I currently work for the Media and Data Science Research Group at <a href="https://wwww.adobe.com" target="_blank">Adobe Inc.</a>
-* I graduated with a BE in Computer Engineering from <a href="https://www.dtu.ac.in" target="_blank">Delhi Technological University</a> in May 2018 where I worked on a wide range of problem across Machine Learning, Computer Vision, Computational Biology, Health and Chemistry.
-* I am interested in using computer vision and deep learning to gain meaningful insights into challenging problems at the intersection of science and computing. Applications in Marketing Intelligence, Healthcare and Communication intrigue me.
+* I graduated with a BE in Computer Engineering from <a href="https://www.dtu.ac.in" target="_blank">Delhi Technological University</a> in May 2018.
+* I am interested in using computer vision to model the abundant data sources to gain meaningful insights into challenging problems at the intersection of science and computing. Applications in Marketing Intelligence, Healthcare and Communication intrigue me.
 
 * During my undergraduate years, I was mentored by <a href="http://people.csail.mit.edu/samson/">Dr. Samson Timoner</a>, <a href="https://www.cse.iitd.ac.in/~chetan/">Dr. Chetan Arora</a> and <a href="https://www.linkedin.com/in/waikit-lau-89129/">Mr. Waikit Lau</a>
 * When not working, I love to travel and explore new places. I also love to regularly write on <a href="https://www.quora.com/profile/Ayush-Chopra" target="_blank">Quora.</a>
