@@ -2,7 +2,7 @@
 title: "Powering Robust Fashion Retrieval with Information Rich Feature Embeddings"
 collection: publications
 permalink: /publications/cvprw2019
-venue: "IEEE/CVPR International Conference on Computer Vision and Pattern Recognition 2019 Workshops"
+venue: "IEEE/CVF International Conference on Computer Vision and Pattern Recognition 2019 Workshops"
 date: 2018-10-7
 <!-- citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>. -->'
 ---
