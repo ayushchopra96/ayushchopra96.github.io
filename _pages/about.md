@@ -20,6 +20,7 @@ redirect_from:
 * When not working, I love to travel and explore new places. I also love to regularly write on <a href="https://www.quora.com/profile/Ayush-Chopra" target="_blank">Quora.</a>
 
 # Recent News
+* June 2019: <b>Promoted</b> to Senior Member of Technical Staff at Adobe Inc.
 * June 2019: <b>Powering Robust Fashion Retrieval with Information Rich Feature Embeddings</b> won the <b>best paper award</b> at CVPR Workshop 2019 on <a href='https://project.inria.fr/usad/ffss-usad-cvpr-2019/' target='_blank'>FFSS-USAD</a>
 * April 2019: <b>Powering Robust Fashion Retrieval with Information Rich Feature Embeddings</b> accepted at CVPR Workshop 2019 on <a href='https://project.inria.fr/usad/ffss-usad-cvpr-2019/' target='_blank'>FFSS-USAD</a>
 * November 2018: Talk on <b>Deep Product Search in the Wild</b> accepted at Adobe Tech Summit 2019, San Jose.
