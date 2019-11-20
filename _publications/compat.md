@@ -2,8 +2,8 @@
 title: "Towards a Unified Framework for Visual Compatibility Prediction"
 collection: publications
 permalink: /publications/compatibilitywacv
-venue: "IEEE Winter on Applications of Computer Vision (WACV) 2020"
-date: 2018-10-7
+venue: "IEEE Winter on Applications of Computer Vision (WACV)"
+date: 2020-10-7
 <!-- citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>. -->'
 ---
 [[PDF]](../files/compatibility.pdf)
