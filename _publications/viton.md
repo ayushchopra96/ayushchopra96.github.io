@@ -7,7 +7,6 @@ venue: "IEEE Winter on Applications of Computer Vision (WACV) 2020"
 date: 2018-10-7
 <!-- citation: 'Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>. -->'
 ---
-#[[PDF]](http://openaccess.thecvf.com/content_CVPRW_2019/html/FFSS-USAD/Chopra_Powering_Robust_Fashion_Retrieval_With_Information_Rich_Feature_Embeddings_CVPRW_2019_paper.html)
 [[PDF]](../files/viton.pdf)
 
 ## Abstract
