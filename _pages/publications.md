@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 ## Preprints
-<b>[SieveNet: A Unified Framework for Robust Image-based Virtual Try-On](https://openreview.net/pdf?id=H1eY00VFDB)</b> <br>
+
+<b>[Retrospection: Leveraging the Past for Efficient Training of Deep Neural Networks](https://openreview.net/pdf?id=H1eY00VFDB)</b> <br>
 <b>Ayush Chopra</b>, Surgan Jandial, Mausoom Sarkar, Balaji K, Vineeth Balasubramanium. <br><i>Under Review at International Conference on Learing Representations</i> <b>ICLR 2020</b>
 
 ## Publications
@@ -17,13 +18,13 @@ author_profile: true
 <b>Ayush Chopra\*</b>, Kumar Ayush\*, Anirudh Singhal, Utkarsh Patel, Balaji K. <br><i>IEEE Winter on Applications of Computer Vision</i> <b>WACV 2020</b>
 
 <b>[Powering Robust Fashion Retrieval with Information Rich Feature Embeddings](../publications/cvprw2019)</b> <br>
-<b>Ayush Chopra</b>, Abhishek Sinha, Mausoom Sarkar, Hiresh Gupta, Kumar Ayush, Balaji K. <br><i>IEEE/CVPR International Conference on Computer Vision and Pattern Recognition 2019 Workshops</i> <b>CVPRW 2019</b>
+<b>Ayush Chopra</b>, Abhishek Sinha, Mausoom Sarkar, Hiresh Gupta, Kumar Ayush, Balaji K. <br><i>International Conference on Computer Vision and Pattern Recognition 2019 Workshops</i> <b>CVPRW 2019</b>
 
 <b>[Powering Virtual Try-On via Auxiliary Human Segmentation Learning](../publications/iccvw_cvfad)</b> <br>
-Kumar Ayush\*, Surgan Jandial\*, <b>Ayush Chopra\*</b>, Balaji K. <br><i>IEEE/CVPR International Conference on Computer Vision 2019 Workshops</i> <b>ICCVW 2019</b>
+Kumar Ayush\*, Surgan Jandial\*, <b>Ayush Chopra\*</b>, Balaji K. <br><i>International Conference on Computer Vision 2019 Workshops</i> <b>ICCVW 2019</b>
 
 <b>[Robust Cloth Warping via Multi-Scale Patch Adversarial Loss for Virtual Try-On Framework](../publications/iccvw_hbu)</b> <br>
-Kumar Ayush\*, Surgan Jandial\*, <b>Ayush Chopra\*</b>, Balaji K. <br><i>IEEE/CVPR International Conference on Computer Vision 2019 Workshops</i> <b>ICCVW 2019</b>
+Kumar Ayush\*, Surgan Jandial\*, <b>Ayush Chopra\*</b>, Balaji K. <br><i>International Conference on Computer Vision 2019 Workshops</i> <b>ICCVW 2019</b>
 
 <b>[Pose Aware Fine Grained Visual Classification for Fashion](../publications/FGVC)</b> <br>
 Kushagra Mahajan\*, Tarasha Khurana\*, <b>Ayush Chopra\*</b>, Chetan Arora, Isha Gupta. <br><i>25th IEEE International Conference on Image Processing.</i> <b>ICIP 2018</b>
