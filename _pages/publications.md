@@ -4,10 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
-
-<b>[Retrospection: Leveraging the Past for Efficient Training of Deep Neural Networks](https://openreview.net/pdf?id=H1eY00VFDB)</b> <br>
-<b>Ayush Chopra</b>, Surgan Jandial, Mausoom Sarkar, Balaji K, Vineeth Balasubramanium. <br><i>Under Review at International Conference on Learing Representations</i> <b>ICLR 2020</b>
 
 ## Publications
 
