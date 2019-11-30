@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 ## Publications
 
 <b>[SieveNet: A Unified Framework for Robust Image-based Virtual Try-On](../publications/vitonwacv)</b> <br>
@@ -33,4 +32,19 @@ Shubham Dokania, <b>Ayush Chopra</b>, Feroz Ahmad, Anil Singh Parihar. <br><i>9t
 
 ## Patents
 
-<b>Multiple patents pending. Details in Resume</b>
+<b>Retrospection: An Online Mining Technique for Efficient Training of Deep Neural Networks.</b> (In filing) <br>
+
+<b>Accurately Generating Virtual Try-on Images Utilizing A Unified Neural Network Framework.</b> (US 16/679,165) <br>
+
+<b>Cloth Warping Using Multi-Scale Patch Adversarial Loss.</b> (US 16/673,574) <br>
+
+<b>Entropy Based Synthetic Data Generation For Augmenting Classification System Training Data.</b> (US 16/659,147) <br>
+
+<b>Generating Combined Feature Embeddings For Minority Class Upsampling In Training Machine Learning Models With Imbalanced Samples.</b> (US 16/564,531) <br>
+
+<b>Improving Performance of Neural Networks Using Learned Specialized Transformation Functions.</b> (US 16/534,856) <br>
+
+<b>Identifying Digital Attributes from Multiple Attribute Groups Within Target Digital Images Utilizing Deep Cognitive Attribution.</b> (US 16/564,831) <br>
+
+<b>Methods for Exploring and Recommending Matching Products Across Categories.</b> (US 16/417,373) <br>
+
