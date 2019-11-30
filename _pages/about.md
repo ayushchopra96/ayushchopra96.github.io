@@ -12,20 +12,30 @@ redirect_from:
   <img src="../files/myphoto.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p> -->
 
-* I currently work for the Media and Data Science Research Group at <a href="https://wwww.adobe.com" target="_blank">Adobe Inc.</a>
-* I graduated with a BE in Computer Engineering from <a href="https://www.dtu.ac.in" target="_blank">Delhi Technological University</a> in May 2018.
+* I currently work for the Media and Data Science Research Lab at <a href="https://wwww.adobe.com" target="_blank">Adobe</a>
+* I graduated with a BE in Computer Engineering from <a href="https://www.dtu.ac.in" target="_blank">Delhi Technological University</a> in May 2018. 
 * I am interested in using computer vision to gain meaningful insights into challenging problems at the intersection of science and computing. Applications in Marketing Intelligence, Healthcare and Fashion intrigue me.
 
 * During my undergraduate years, I was mentored by <a href="http://people.csail.mit.edu/samson/">Dr. Samson Timoner</a>, <a href="https://www.cse.iitd.ac.in/~chetan/">Dr. Chetan Arora</a> and <a href="https://www.linkedin.com/in/waikit-lau-89129/">Mr. Waikit Lau</a>
 * When not working, I love to travel and explore new places. I also love to regularly write on <a href="https://www.quora.com/profile/Ayush-Chopra" target="_blank">Quora.</a>
 
 # Recent News
-* June 2019: <b>Promoted</b> to Senior Member of Technical Staff at Adobe Inc.
-* June 2019: <b>Powering Robust Fashion Retrieval with Information Rich Feature Embeddings</b> won the <b>best paper award</b> at CVPR Workshop 2019 on <a href='https://project.inria.fr/usad/ffss-usad-cvpr-2019/' target='_blank'>FFSS-USAD</a>
-* April 2019: <b>Powering Robust Fashion Retrieval with Information Rich Feature Embeddings</b> accepted at CVPR Workshop 2019 on <a href='https://project.inria.fr/usad/ffss-usad-cvpr-2019/' target='_blank'>FFSS-USAD</a>
-* November 2018: Talk on <b>Deep Product Search in the Wild</b> accepted at Adobe Tech Summit 2019, San Jose.
-* October 2018: Started collaborating with the <b>Camera Culture group</b> at MIT Media Labs.
-* October 2018 Speaking on <b>Computer Vision at Open Food Facts</b> at Google Summer of Code Mentor's Summit 2018 in Sunnyvale, California.
-* July 2018: Joined the <b>Media and Data Science Research Group</b> at Adobe Inc.
-* May 2018: Paper on Pose Aware Fine Grained Visual Classification accepted at <a>25th IEEE ICIP 2018</a> in Athens, Greece.
+* November 2019: Filed two patents at Adobe.
+* October 2019: <a href="www.remotehq.com" target="_blank">RemoteHQ</a> launched on Product Hunt. Voted <a href="https://www.producthunt.com/posts/remotehq" target="_blank">#1 product of the day</a>.
+* October 2019: Reviewer for IEEE WACV 2020 round 2
+* September 2019: <b>Two</b> papers accepted at ICCV 2019 Workshops: <a href="http://ayushchopra.me/publications/iccvw_cvfad">[1]</a> at <a href="https://sites.google.com/view/cvcreative" target="_blank">CVFAD</a> and <a href="http://ayushchopra.me/publications/iccvw_hbu">[2]</a> accepted at ICCV 2019 Workshops: <a href="https://project.inria.fr/whbu/" target="_blank">HBU</a>.
+* August 2019: <a href="http://ayushchopra.me/publications/vitonwacv">SieveNet</a> accepted at WACV 2020
+* July 2019: Filed two patents at Adobe.
+* July 2019: Reviewer for IEEE WACV 2020 round 1
+* June 2019: <b>Promoted</b> to Senior Member of Technical Staff at Adobe
+* June 2019: Won the Best Paper Award at CVPR 2019 Workshop on <a href='https://project.inria.fr/usad/ffss-usad-cvpr-2019/' target='_blank'>FFSS-USAD</a>. <a href="https://twitter.com/naverlabseurope/status/1140376555341795328" target="_blank">[media]</a>
+* June 2019: Attending CVPR 2019. Will be giving an oral presentation at <a href='https://project.inria.fr/usad/ffss-usad-cvpr-2019/' target='_blank'>FFSS-USAD</a> on Day 1. <a href="https://drive.google.com/open?id=1t28f3S64evD4UdDA3-FH3tOSJ-n1nPdb" target="_blank">[slides]</a>
+* April 2019: <a href="http://ayushchopra.me/publications/cvprw2019" target="_blank">GSN</a> accepted at CVPR 2019 Workshop: <a href='https://project.inria.fr/usad/ffss-usad-cvpr-2019/' target='_blank'>FFSS-USAD</a> as <b>Oral</b> Presentation!!
+* March 2019: Filed one patent at Adobe.
+* February 2019: Giving a Talk on <b>Panoptic Shopping: Future of Visual Search</b> at Adobe Tech Summit 2019, San Francisco California. <a href="https://drive.google.com/open?id=192RQtpUpRPPFxHQLICTVM5ptNN5pvIix">[slides]</a>
+* December 2018: Filed 2 patents at Adobe.
+* October 2018: Collaborating with the <b>Camera Culture group</b> at MIT Media Labs.
+* October 2018: Attending GSoC mentor's summit 2018 in Sunnyvale, California.
+* July 2018: Joined the <b>Media and Data Science Research Lab</b> at Adobe.
+* May 2018: Paper on Fine Grained Visual Classification accepted at <a href="https://2018.ieeeicip.org/" target="_blank">ICIP 2018</a> in Athens, Greece.
 * April 2018: Mentoring GSoC 2018 with Open Food Facts.
