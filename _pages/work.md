@@ -29,8 +29,6 @@ redirect_from:
 ## Product
 1. Technical Advisor, <b>Cyclops</b>
 	- Machine Learning strategy and development for building the next generation of intelligent video conferencing experiences.
-2. Consultant, <b>ISM Connect</b>
-	- Computer Vision for surveillance and tracking for safer experiences at public events.
 
 ## OpenSource
 1. Mentor, <b>Google Summer of Code</b>
