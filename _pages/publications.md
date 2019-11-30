@@ -13,7 +13,7 @@ author_profile: true
 <b>Ayush Chopra\*</b>, Kumar Ayush\*, Anirudh Singhal, Utkarsh Patel, Balaji K. <br><i>IEEE Winter on Applications of Computer Vision</i> <b>WACV 2020</b>
 
 <b>[Powering Robust Fashion Retrieval with Information Rich Feature Embeddings](../publications/cvprw2019)</b> <br>
-<b>Ayush Chopra</b>, Abhishek Sinha, Mausoom Sarkar, Hiresh Gupta, Kumar Ayush, Balaji K. <br><i>International Conference on Computer Vision and Pattern Recognition 2019 Workshops</i> <b>CVPRW 2019</b>
+<b>Ayush Chopra</b>, Abhishek Sinha, Mausoom Sarkar, Hiresh Gupta, Kumar Ayush, Balaji K. <br><i>International Conference on Computer Vision and Pattern Recognition 2019 Workshops</i> <b>CVPRW 2019</b> <span style="color:red">Best Paper Award</span>.
 
 <b>[Powering Virtual Try-On via Auxiliary Human Segmentation Learning](../publications/iccvw_cvfad)</b> <br>
 Kumar Ayush\*, Surgan Jandial\*, <b>Ayush Chopra\*</b>, Balaji K. <br><i>International Conference on Computer Vision 2019 Workshops</i> <b>ICCVW 2019</b>
