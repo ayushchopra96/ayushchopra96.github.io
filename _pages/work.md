@@ -22,7 +22,7 @@ redirect_from:
 4. Research Intern, <b>Optimization Lab</b>
         - Worked on optimization of multi-modal, composite objective functions
 5. Research Intern, <b>National Physical Laboratory</b>
-        - Worked on Conduct Polyermic Substrates for Wastewater Treatment
+        - Worked on developing and testing Conducting Polyermic Substrates for Wastewater Treatment
 
 ## Product
 1. Technical Advisor, <b>Cyclops</b>
