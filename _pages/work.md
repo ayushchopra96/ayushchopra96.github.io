@@ -13,18 +13,16 @@ redirect_from:
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
 ## Research
-1. Member of Technical Staff, <b>Adobe Inc.</b> &nbsp; &nbsp; <br>
+1. Senior Member of Technical Staff, <b>Adobe Inc.</b> &nbsp; &nbsp; <br>
 	- Work for the Media and Data Science Research Group
-	- Computer Vision for building interactive customer experiences
 2. Remote Collaborator, <b>MIT Media Labs</b>
-	- Working with the Camera Culture Group on Data Driven NLOS Imaging
-3. Research Intern, <b>Adobe Inc.</b>
-	- Worked on fine grained visual search and retrieval tasks.
-	- Developed and patented a novel siamese search network for generation of robust feature representation.
-4. Research Intern, <b>CVML IIIT Delhi</b>
+	- Worked with the Camera Culture Group on Data Driven NLOS Imaging
+3. Research Intern, <b>CVML IIIT Delhi</b>
 	- Worked on Pose Aware Fine Grained Visual Classification
+4. Research Intern, <b>Optimization Lab</b>
+        - Worked on optimization of multi-modal, composite objective functions
 5. Research Intern, <b>National Physical Laboratory</b>
-	- Worked at the intersection of polymer chemistry, biology and computer hardware.
+        - Worked on Conduct Polyermic Substrates for Wastewater Treatment
 
 ## Product
 1. Technical Advisor, <b>Cyclops</b>
