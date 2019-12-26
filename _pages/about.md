@@ -14,10 +14,12 @@ redirect_from:
 
 * I currently work for the Media and Data Science Research Lab at <a href="https://wwww.adobe.com" target="_blank">Adobe</a>
 * I graduated with a BE in Computer Engineering from <a href="https://www.dtu.ac.in" target="_blank">Delhi Technological University</a> in May 2018. 
-* I am interested in using computer vision to gain meaningful insights into challenging problems at the intersection of science and computing. Applications in Marketing Intelligence, Healthcare and Fashion intrigue me.
-
+* I am interested in using deep learning and computer vision to augment user abilities through interactive experiences. Applications across Healthcare, Fashion and Communication intrigue me.
 * During my undergraduate years, I was mentored by <a href="http://people.csail.mit.edu/samson/">Dr. Samson Timoner</a>, <a href="https://www.cse.iitd.ac.in/~chetan/">Dr. Chetan Arora</a> and <a href="https://www.linkedin.com/in/waikit-lau-89129/">Mr. Waikit Lau</a>
 * When not working, I love to travel and explore new places. I also love to regularly write on <a href="https://www.quora.com/profile/Ayush-Chopra" target="_blank">Quora.</a>
+
+# Brief Work Bio
+* During my brief professional journey, I have had the opportunity to gain diverse experiences in research, product, and teaching. As a researcher, I started in polymer chemistry before delving into computer science where I have explored an eclectic mix of fundamental and applied problems. I have had the opportunity to work on diverse product use-cases in multi-cultural professional settings. I worked on a video communication platform as part of a 5-person team distributed over 3 continents (RemoteHQ). Working for a $150 billion company with over 10k employees, I built solutions for Fashion and Marketing (Adobe). As a GSoC mentor, I supervised projects in computational nutrition for a French organization with developers from China, India and the US. During my time as an ML instructor (Coding Blocks), I taught students from different backgrounds including consulting, design, medicine, etc.
 
 # Recent News
 * December 2019: Work on <a href="http://ayushchopra.me/publications/compatibilitywacv">Visual Compatibility</a> accepted at WACV 2020
