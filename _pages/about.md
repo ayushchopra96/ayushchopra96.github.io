@@ -15,6 +15,7 @@ redirect_from:
 * I currently work for the Media and Data Science Research Lab at <a href="https://wwww.adobe.com" target="_blank">Adobe</a>
 * I graduated with a BE in Computer Engineering from <a href="https://www.dtu.ac.in" target="_blank">Delhi Technological University</a> in May 2018. 
 * I am interested in using deep learning and computer vision to deliver interactive user experiences. Applications across healthcare, fashion and communication intrigue me.
+* During my undergraduate years, I was mentored by <a href="http://people.csail.mit.edu/samson/">Dr. Samson Timoner</a>, <a href="https://www.cse.iitd.ac.in/~chetan/">Dr. Chetan Arora</a> and <a href="https://www.linkedin.com/in/waikit-lau-89129/">Mr. Waikit Lau</a>
 * When not working, I love to travel and explore new places. I also love to regularly write on <a href="https://www.quora.com/profile/Ayush-Chopra" target="_blank">Quora.</a>
 
 # Recent News
