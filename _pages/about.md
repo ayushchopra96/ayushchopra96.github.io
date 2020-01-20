@@ -19,6 +19,7 @@ redirect_from:
 * When not working, I love to travel and explore new places. I also love to regularly write on <a href="https://www.quora.com/profile/Ayush-Chopra" target="_blank">Quora.</a>
 
 # Recent News
+* January 2020: Awarded Adobe's <span style="color:red;"><b>Oustanding Young Engineer Award</b></span> for 2019!!
 * December 2019: Work on <a href="http://ayushchopra.me/publications/compatibilitywacv">Visual Compatibility</a> accepted at WACV 2020
 * November 2019: Filed two patents at Adobe.
 * October 2019: <a href="www.remotehq.com" target="_blank">RemoteHQ</a> launched on Product Hunt. Voted <a href="https://www.producthunt.com/posts/remotehq" target="_blank">#1 product of the day</a>.
