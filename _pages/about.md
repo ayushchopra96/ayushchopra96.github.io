@@ -19,6 +19,9 @@ redirect_from:
 * When not working, I love to travel and explore new places. I also love to regularly write on <a href="https://www.quora.com/profile/Ayush-Chopra" target="_blank">Quora.</a>
 
 # Recent News
+* April 2020: SieveNet will be presented at CVPR 2020 Workshop on <a href="http://visual.cs.brown.edu/aicc2020/" target="_blank" >AI for Content Creation</a>. The work was also covered by <a href="https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/" target="_blank">venture beat</a>!
+* April 2020: <a href="https://arxiv.org/abs/2004.15014" target="_blank">SimPropNet</a> accepted at IJCAI 2020 (Acceptance Rate: 12.8%)
+* March 2020: My talk on #ProjectClothesSwap is now live as part of Adobe Summit 2020 Sneaks. Checkout the <a href="https://twitter.com/Adobe/status/1245038364778065921" target="_blank">twitter thread</a> and <a href="https://www.youtube.com/watch?v=FTa3yp1WCy4" target="_blank">youtube video</a>.
 * February 2020: Reviewer for IJCAI 2020
 * January 2020: Awarded Adobe's <span style="color:red;"><b>Oustanding Young Engineer Award</b></span> for 2019-2020!
 * December 2019: Work on <a href="http://ayushchopra.me/publications/compatibilitywacv">Visual Compatibility</a> accepted at WACV 2020
