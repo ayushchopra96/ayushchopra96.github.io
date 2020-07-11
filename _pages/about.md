@@ -20,7 +20,7 @@ redirect_from:
 
 # Recent News
 * May 2020: Work on <a href="https://arxiv.org/abs/2006.13593" target="_blank">Retrospective Loss</a> accepted at KDD 2020 (Acceptance Rate: 15%)
-* April 2020: SieveNet will be presented at CVPR 2020 Workshop on <a href="http://visual.cs.brown.edu/aicc2020/" target="_blank" >AI for Content Creation</a>. The work was also covered by <a href="https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/" target="_blank">venture beat</a>!
+* April 2020: SieveNet will also be presented at CVPR 2020 Workshop on <a href="http://visual.cs.brown.edu/aicc2020/" target="_blank" >AI for Content Creation</a>. The work has been covered by <a href="https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/" target="_blank">venture beat</a>, <a href="https://wwd.com/business-news/technology/adobe-technology-ai-project-clothes-swap-in-experience-manager-1203640752/" target="_blank">women's wear daily</a> and <a target="_blank" href="https://www.adweek.com/brand-marketing/this-experimental-adobe-feature-lets-online-shoppers-virtually-try-on-clothes-with-ai/">adweek</a>!
 * April 2020: <a href="https://arxiv.org/abs/2004.15014" target="_blank">SimPropNet</a> accepted at IJCAI 2020 (Acceptance Rate: 12.8%)
 * March 2020: My talk on #ProjectClothesSwap is now live as part of <b>Adobe Summit 2020</b> Sneaks. Checkout the <a href="https://twitter.com/Adobe/status/1245038364778065921" target="_blank">twitter thread</a> and <a href="https://www.youtube.com/watch?v=FTa3yp1WCy4" target="_blank">youtube video</a>.
 * February 2020: Reviewer for IJCAI 2020
