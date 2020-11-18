@@ -43,11 +43,14 @@ function display(filename, colorRange) {
 
     var countryById = d3.map();
 
+    console.log("---- calling loader queue ----")
     // we use queue because we have 2 data files to load.
     queue()
         .defer(d3.json, "USA.json")
         .defer(d3.csv, filename, typeAndSet) // process
         .await(loaded);
+
+    console.log("---- loaded done ----")
 
     function typeAndSet(d) {
         d.positives = +d.positives;
