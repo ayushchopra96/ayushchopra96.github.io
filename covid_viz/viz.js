@@ -64,6 +64,7 @@ function getAge() {
 
 document.querySelector("#vizBtn").addEventListener("click", function() {
 
+    console.log("calling viz btn");
     document.getElementById("map").innerHTML = "";
     let filename;
     filename = 'data/' + getGender() + '-' + getAge() + '.csv';
