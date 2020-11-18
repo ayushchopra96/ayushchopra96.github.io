@@ -72,6 +72,7 @@ function display(filename, colorRange) {
 
     function loaded(error, usa, positives) {
 
+        console.log("-----calling loaded method-----");
         console.log(usa);
         console.log(positives);
 
